@@ -1,50 +1,30 @@
 * {
     box-sizing:border-box;
-    width: 100%;
+  width: 100%;
   }
   .gg {
     padding:20px;
     float:left;
-    width: 100%;
-    
+    width: 20%;
   }
+    
+  
   .dd {
     padding:20px;
     float:left;
-    width: 100%;
+    width: 20%;
  
   }
  
   .ss {
     padding:20px;
     float:left;
-    width: 100%;
+    width: 20%;
   }
     
-    @media screen and (max-width:1222px)
-{
-  
-.gg,.dd,.ss{
-  width : 100px 
+@media screen and (max-width:800px){
+  .gg,.dd,.ss{
+    width :400px;
+    
+  }
 }
-
-  
-
-  
- 
- 
- 
-
-     
-
-
-  
-  
-
-
-
-  
-  
-
- 
-
